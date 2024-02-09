@@ -8,6 +8,11 @@ Este proyecto:
 
   ![letra_A](https://github.com/A01750545-BRDA/Interpreta-Senas-yolov8/assets/133681301/067eedc8-d44e-4a4d-8d02-d1487faf8fa3)
 
+## Contenido adicional
+
+Folder con modelos preentrenados para reconocer el abecedario en LSM:
+https://drive.google.com/drive/folders/1bPh_Ejl4w2KxyF6NoovPfMZJO3ya9c8p?usp=sharing
+
 ## Créditos
 
 Este proyecto fue desarrollado con la ayuda del siguiente tutorial:
